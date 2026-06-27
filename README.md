@@ -1,11 +1,16 @@
 <!-- KMoula30 — GitHub Profile README -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF2D78,50:BF00FF,100:00F5FF&height=150&section=header&text=Konstantinos%20Moulakis&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Powertrain%20Design%20Engineer%20%7C%20Simulation%20%26%20Hardware&descAlignY=60&descSize=16)
+<h1 align="center">Konstantinos Moulakis</h1>
 
 <p align="center">
-  <a href="https://github.com/KMoula30">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3500&amp;pause=800&amp;color=00F5FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Humanoid+Powertrain+Lead+%40+TII;Ex+Tesla+EM+Design+Engineer;Python+%7C+FEA+%7C+Multiphysics+Simulation;Optimizing+every+watt+on+the+Grand+Line+%E2%9A%A1" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3500&amp;pause=800&amp;color=00F5FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Humanoid+Powertrain+Lead+%40+TII;Ex+Tesla+EM+Design+Engineer;Python+%7C+FEA+%7C+Multiphysics+Simulation;Optimizing+every+watt+on+the+Grand+Line+%E2%9A%A1" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.mag-motor.com"><img src="https://img.shields.io/badge/mag--motor.com-0D0D1A?style=flat-square&amp;logo=googlechrome&amp;logoColor=00F5FF" /></a>
+  <a href="mailto:kmoulakis@mag-motor.com"><img src="https://img.shields.io/badge/Email-0D0D1A?style=flat-square&amp;logo=gmail&amp;logoColor=FF2D78" /></a>
+  <a href="https://www.linkedin.com/in/kmoulakis"><img src="https://img.shields.io/badge/LinkedIn-0D0D1A?style=flat-square&amp;logo=linkedin&amp;logoColor=BF00FF" /></a>
+  <img src="https://komarev.com/ghpvc/?username=KMoula30&amp;style=flat-square&amp;color=FF2D78&amp;label=Crew+Members+Aboard" />
 </p>
 
 ---
@@ -41,7 +46,7 @@ class KonstantinosMoulakis:
   <img src="https://img.shields.io/badge/SciPy-0D0D1A?style=for-the-badge&amp;logo=scipy&amp;logoColor=FF2D78" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/FEMM-0D0D1A?style=for-the-badge&amp;logoColor=00F5FF&amp;color=0D0D1A" />
+  <img src="https://img.shields.io/badge/FEMM-FF2D78?style=for-the-badge&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/ANSYS-0D0D1A?style=for-the-badge&amp;logo=ansys&amp;logoColor=FF2D78" />
   <img src="https://img.shields.io/badge/SolidWorks-0D0D1A?style=for-the-badge&amp;logoColor=BF00FF" />
   <img src="https://img.shields.io/badge/Git-0D0D1A?style=for-the-badge&amp;logo=git&amp;logoColor=FF2D78" />
@@ -63,28 +68,19 @@ class KonstantinosMoulakis:
 
 ---
 
-## 🏴‍☠️ Set Sail
+## 📡 Deep Waters
 
 <p align="center">
-  <a href="https://www.mag-motor.com">
-    <img src="https://img.shields.io/badge/mag--motor.com-0D0D1A?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=00F5FF" />
-  </a>
-  <a href="mailto:kmoulakis@mag-motor.com">
-    <img src="https://img.shields.io/badge/Email-0D0D1A?style=for-the-badge&amp;logo=gmail&amp;logoColor=FF2D78" />
-  </a>
-  <a href="https://www.linkedin.com/in/kmoulakis">
-    <img src="https://img.shields.io/badge/LinkedIn-0D0D1A?style=for-the-badge&amp;logo=linkedin&amp;logoColor=BF00FF" />
-  </a>
+  <img src="isocalendar.svg" alt="Isometric activity calendar" />
+</p>
+
+<p align="center">
+  <img src="languages.svg" alt="Languages breakdown" />
+  <img src="habits.svg" alt="Coding habits" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KMoula30&amp;style=for-the-badge&amp;color=FF2D78&amp;label=Crew+Members+Aboard" alt="profile views" />
-</p>
-
-<p align="center">
   <i>"I don't want to conquer the seas. I just want to build the most efficient powertrain on the Grand Line." ⚡🏴‍☠️</i>
 </p>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:BF00FF,100:FF2D78&height=120&section=footer&reversal=true)
