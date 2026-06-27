@@ -1,8 +1,6 @@
 <!-- KMoula30 — GitHub Profile README -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF2D78,50:BF00FF,100:00F5FF&amp;height=150&amp;section=header&amp;text=Konstantinos%20Moulakis&amp;fontSize=40&amp;fontColor=ffffff&amp;fontAlignY=40&amp;desc=Powertrain%20Design%20Engineer%20%7C%20Simulation%20%26%20Hardware&amp;descAlignY=60&amp;descSize=16" width="100%"/>
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF2D78,50:BF00FF,100:00F5FF&height=150&section=header&text=Konstantinos%20Moulakis&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Powertrain%20Design%20Engineer%20%7C%20Simulation%20%26%20Hardware&descAlignY=60&descSize=16)
 
 <p align="center">
   <a href="https://github.com/KMoula30">
@@ -89,6 +87,4 @@ class KonstantinosMoulakis:
   <i>"I don't want to conquer the seas. I just want to build the most efficient powertrain on the Grand Line." ⚡🏴‍☠️</i>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00F5FF,50:BF00FF,100:FF2D78&amp;height=120&amp;section=footer&amp;reversal=true" width="100%"/>
-</p>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:BF00FF,100:FF2D78&height=120&section=footer&reversal=true)
