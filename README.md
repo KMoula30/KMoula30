@@ -62,9 +62,11 @@ class KonstantinosMoulakis:
 
 <p align="center">
   <img src="languages.svg" alt="Languages breakdown" />
-  <img src="achievements.svg" alt="Achievements" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KMoula30&amp;theme=synthwave&amp;hide_border=true" />
+</p>
 ---
 
 <p align="center">
