@@ -68,7 +68,7 @@ class KonstantinosMoulakis:
 ---
 
 <p align="center">
-  <i>"I don't want to conquer the seas. I just want to build the most efficient powertrain on the Grand Line." ⚡🏴‍☠️</i>
+  <i>"Hero? No! We're pirates! I love heroes, but I don't wanna be one! Do you know what heroes are? Say there is a chunk of meat. Pirates will have a banquet and eat it, but heroes will share it with other people. I want all the meat!." ⚡🏴‍☠️</i>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:FF2D78&height=120&section=footer&reversal=true)
