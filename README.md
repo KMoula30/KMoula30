@@ -1,7 +1,7 @@
 <!-- KMoula30 — GitHub Profile README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&amp;color=0:FF2D78,50:BF00FF,100:00F5FF&amp;height=150&amp;section=header&amp;text=Konstantinos%20Moulakis&amp;fontSize=40&amp;fontColor=ffffff&amp;fontAlignY=55&amp;desc=Powertrain%20Design%20Engineer%20%7C%20Simulation%20%26%20Hardware&amp;descAlignY=78&amp;descSize=15&amp;animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF2D78,50:BF00FF,100:00F5FF&amp;height=150&amp;section=header&amp;text=Konstantinos%20Moulakis&amp;fontSize=40&amp;fontColor=ffffff&amp;fontAlignY=40&amp;desc=Powertrain%20Design%20Engineer%20%7C%20Simulation%20%26%20Hardware&amp;descAlignY=60&amp;descSize=16" width="100%"/>
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@ class KonstantinosMoulakis:
 <p align="center">
   <img src="https://img.shields.io/badge/FEMM-0D0D1A?style=for-the-badge&amp;logoColor=00F5FF&amp;color=0D0D1A" />
   <img src="https://img.shields.io/badge/ANSYS-0D0D1A?style=for-the-badge&amp;logo=ansys&amp;logoColor=FF2D78" />
-  <img src="https://img.shields.io/badge/SolidWorks-0D0D1A?style=for-the-badge&amp;logoColor=BF00FF&amp;label=SolidWorks" />
+  <img src="https://img.shields.io/badge/SolidWorks-0D0D1A?style=for-the-badge&amp;logoColor=BF00FF" />
   <img src="https://img.shields.io/badge/Git-0D0D1A?style=for-the-badge&amp;logo=git&amp;logoColor=FF2D78" />
   <img src="https://img.shields.io/badge/PostgreSQL-0D0D1A?style=for-the-badge&amp;logo=postgresql&amp;logoColor=00F5FF" />
 </p>
@@ -55,16 +55,12 @@ class KonstantinosMoulakis:
 ## 🗺️ Grand Line Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KMoula30&amp;show_icons=true&amp;theme=synthwave&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KMoula30&amp;show_icons=true&amp;theme=synthwave&amp;hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMoula30&amp;layout=compact&amp;theme=synthwave&amp;hide_border=true&amp;langs_count=8" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KMoula30&amp;theme=synthwave&amp;hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KMoula30&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=10" />
 </p>
 
 ---
@@ -94,5 +90,5 @@ class KonstantinosMoulakis:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&amp;color=0:00F5FF,50:BF00FF,100:FF2D78&amp;height=120&amp;section=footer&amp;reversal=true" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00F5FF,50:BF00FF,100:FF2D78&amp;height=120&amp;section=footer&amp;reversal=true" width="100%"/>
 </p>
