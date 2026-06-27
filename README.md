@@ -1,6 +1,6 @@
 <!-- KMoula30 — GitHub Profile README -->
 
-<h1 align="center">Konstantinos Moulakis</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF2D78,100:00F5FF&height=180&section=header&text=Konstantinos%20Moulakis&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Powertrain%20Design%20Engineer&descAlignY=60&descSize=20)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3500&amp;pause=800&amp;color=00F5FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Humanoid+Powertrain+Lead+%40+TII;Ex+Tesla+EM+Design+Engineer;Python+%7C+FEA+%7C+Multiphysics+Simulation;Optimizing+every+watt+on+the+Grand+Line+%E2%9A%A1" alt="Typing SVG" />
@@ -58,19 +58,6 @@ class KonstantinosMoulakis:
 ## 🗺️ Grand Line Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KMoula30&amp;show_icons=true&amp;theme=synthwave&amp;hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMoula30&amp;layout=compact&amp;theme=synthwave&amp;hide_border=true&amp;langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KMoula30&amp;theme=synthwave&amp;hide_border=true" />
-</p>
-
----
-
-## 📡 Deep Waters
-
-<p align="center">
   <img src="isocalendar.svg" alt="Isometric activity calendar" />
 </p>
 
@@ -84,3 +71,5 @@ class KonstantinosMoulakis:
 <p align="center">
   <i>"I don't want to conquer the seas. I just want to build the most efficient powertrain on the Grand Line." ⚡🏴‍☠️</i>
 </p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:FF2D78&height=120&section=footer&reversal=true)
