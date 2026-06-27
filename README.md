@@ -63,7 +63,7 @@ class KonstantinosMoulakis:
 
 <p align="center">
   <img src="languages.svg" alt="Languages breakdown" />
-  <img src="habits.svg" alt="Coding habits" />
+  <img src="achievements.svg" alt="Achievements" />
 </p>
 
 ---
