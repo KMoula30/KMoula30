@@ -21,16 +21,15 @@
 class KonstantinosMoulakis:
     def __init__(self):
         self.role        = "Humanoid Powertrain Lead @ TII"
-        self.crew        = "Straw Hat Engineers"
-        self.previous    = ["Sr. EM Engineer @ Tesla", "EM Engineer @ Tesla", "Assoc. Design Eng @ Tesla"]
+        self.previous    = ["Sr. EM Motor Design Engineer @ Tesla"]
         self.domains     = ["E-Motors", "Inverters", "Drive Units", "Humanoid Actuators", "Battery Packs"]
-        self.tools       = ["Python", "FEMM", "ANSYS", "MATLAB", "C++", "FEA", "Multiphysics"]
+        self.tools       = ["Python", "FEA (NGSolve, Elmer, xFEMM)", "MATLAB", "C++", "Multiphysics (Thermal//EM, EM//Structural Couplings)"]
         self.dream       = "Build the drive system that conquers the Grand Line"
         self.website     = "www.mag-motor.com"
 ```
 
 - 🤖 Currently designing the **powertrain of a humanoid robot** @ Technology Innovation Institute
-- 🧲 Former **Tesla EM Engineer** — EM motor design, iron loss modeling, e-steel R&amp;D &amp; qualification
+- 🧲 Former **Tesla EM Motor Design Engineer** — EM motor design, iron loss modeling, e-steel R&amp;D &amp; qualification
 - ⚡ Bridging physics-based simulation and production hardware every day
 - 🍖 Powered by physics, math, and an unreasonable amount of meat
 
