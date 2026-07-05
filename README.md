@@ -28,7 +28,7 @@ class KonstantinosMoulakis:
         self.website     = "www.mag-motor.com"
 ```
 
-- 🤖 Currently designing the **powertrain of a humanoid robot** @ Technology Innovation Institute
+- 🤖 Currently designing **powertrains for humanoid robots** @ Technology Innovation Institute
 - 🧲 Former **Tesla EM Motor Design Engineer** — EM motor design, iron loss modeling, e-steel R&amp;D &amp; qualification
 - ⚡ Bridging physics-based simulation and production hardware every day
 - 🍖 Powered by physics, math, and an unreasonable amount of meat
