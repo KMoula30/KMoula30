@@ -51,6 +51,9 @@ class KonstantinosMoulakis:
   <img src="https://img.shields.io/badge/Git-0D0D1A?style=for-the-badge&amp;logo=git&amp;logoColor=FF2D78" />
   <img src="https://img.shields.io/badge/PostgreSQL-0D0D1A?style=for-the-badge&amp;logo=postgresql&amp;logoColor=00F5FF" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-0D0D1A?style=for-the-badge&amp;logo=rust&amp;logoColor=FB542B" />
+</p>
 
 ---
 
